@@ -68,6 +68,10 @@ h6,
 
 .box-masonry-footer {
     margin-top: 12px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 /* no > in front of li */
