@@ -66,6 +66,10 @@ h6,
     font-size: smaller;
 }
 
+.box-masonry-footer {
+    margin-top: 12px;
+}
+
 /* no > in front of li */
 .content-column-content ul li:before {
     content: '';
