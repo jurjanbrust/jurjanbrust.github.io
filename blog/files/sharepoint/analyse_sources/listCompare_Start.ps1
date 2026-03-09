@@ -1,1 +1,0 @@
-.\listCompare.ps1 "http://sp2019" "https://brust.sharepoint.com/" "Documents"
